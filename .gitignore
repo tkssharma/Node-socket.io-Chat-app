@@ -13,6 +13,11 @@ node_modules/**/**/build/Makefile
 logs
 *.log
 
+
+.settings
+
+.*
+
 # Runtime data
 pids
 *.pid
